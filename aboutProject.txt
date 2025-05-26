@@ -1,0 +1,14 @@
+sabse pahele hamne npm init kra
+phir hamne npm install kiya 
+
+ab krenge ham setting up parsers for form
+iske bad
+setting up ejs for ejs pages 
+    -> install npm i ejs
+    -> setup ejs as a view engine
+iske bad 
+setting up public static file
+
+iske bad
+dynamic routing 
+    how to get data coming from frontend at backend route.
