@@ -13,7 +13,6 @@ Edit existing tasks
 Delete tasks permanently
 
 ⚙️
-
 How It Works (Internals)
 
 📁
