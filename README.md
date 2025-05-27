@@ -2,7 +2,9 @@ Task Saver webApp uses only Express and Node.js (no MongoDB), it likely stores d
 
 🧾 Project Description
 
-✅ What It Is:
+✅ 
+
+What It Is:
 Your Task Saver WebApp is a full-stack application built with Node.js and Express that allows users to:
 
 Add new tasks
@@ -11,8 +13,12 @@ Read full task details with a “Read More” feature
 Edit existing tasks
 Delete tasks permanently
 
-⚙️ How It Works (Internals)
-📁 File Storage:
+⚙️
+
+How It Works (Internals)
+📁
+
+File Storage:
 Instead of using a database like MongoDB, the app uses Node’s fs module.
 
 Tasks are stored in a file such as:
@@ -20,7 +26,9 @@ tasks.txt
 data.txt
 Each time a task is added/edited/deleted, the file is read, updated, and saved again.
 
-🛠️ Tech Stack:
+🛠️ 
+
+Tech Stack:
 Backend: Node.js, Express
 Frontend: EJS (or HTML templates), Tailwind CSS
 Storage: File system using Node’s fs module (e.g., fs.readFile, fs.writeFile).
